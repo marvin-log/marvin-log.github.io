@@ -129,3 +129,9 @@ Migration of LLC-A platform from an AWS region-A instance to a US instance, incl
 
 Above is a concise log for future reference and repeatability.
 ![Terminal commands log](4c253ffac2b0f487f9ca9d8659250157.png)
+![Terminal commands log](498927691f06ee67257487d2fdbd19c9.png)
+![Terminal commands log](04e201fe1b070558abcb68b53a1aa002.png)
+![Terminal commands log](4c253ffac2b0f487f9ca9d8659250157.png)
+![Terminal commands log](82e49479145f28c48b6869d8eecd4186.png)
+![Terminal commands log](9951a607dfb05194964aa896a069f6f4.png)
+![Terminal commands log](d7497bf11dfde6e6aaf95e132e318353.png)
