@@ -128,4 +128,4 @@ Migration of LLC-A platform from an AWS region-A instance to a US instance, incl
 ---
 
 Above is a concise log for future reference and repeatability.
-![Terminal commands log](_posts/4c253ffac2b0f487f9ca9d8659250157.png)
+![Terminal commands log](/4c253ffac2b0f487f9ca9d8659250157.png)
